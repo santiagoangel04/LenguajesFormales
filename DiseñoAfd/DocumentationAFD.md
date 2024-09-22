@@ -84,4 +84,4 @@ como cosa importante vemos las transcisiones, para la primera entrada o input 0 
 q0,a->q0 q0,b->q1 q1,a->q1 q1,b->q2 q2,a->q1 q2,b->q1
 ```
 y tenemos la construccion del mismo aqui
-![Imagen automata finito determinista ejemplo 0](/DiseñoAfd/img/Captura%20de%20pantalla%202024-09-21%20192729.png)
+![](/DiseñoAfd/img/Captura%20de%20pantalla%202024-09-21%20192729.png)
