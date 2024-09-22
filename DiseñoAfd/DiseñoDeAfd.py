@@ -23,6 +23,7 @@ estados_finales = input("Ingrese los estados finales: ").split(" ")
 transiciones = input("Ingrese todas las transciones: ").split(" ")
 #numero cadenas que recibira el programa
 num_cadenas = int(input("Ingrese el numero total de cadenas a evaluar: "))
+cadenas_verificar = []
 #pedir cadenas
 #comienzo del afd
 

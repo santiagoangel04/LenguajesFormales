@@ -78,4 +78,5 @@ Para la primera linea necesitamos un alfabeto, es decir que debemos hacer verifi
 ```
 alfabeto = input().split()
 ```
-esta linea me permitira capturar espacios de separacion y meter los caracteres en una lista
+esta linea me permitira capturar espacios de separacion y meter los caracteres en una lista, asi para todos menos las cadenas y el estado inical.
+como cosa importante vemos las transcisiones
