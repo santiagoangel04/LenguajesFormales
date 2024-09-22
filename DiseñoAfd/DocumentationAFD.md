@@ -79,4 +79,9 @@ Para la primera linea necesitamos un alfabeto, es decir que debemos hacer verifi
 alfabeto = input().split()
 ```
 esta linea me permitira capturar espacios de separacion y meter los caracteres en una lista, asi para todos menos las cadenas y el estado inical.
-como cosa importante vemos las transcisiones
+como cosa importante vemos las transcisiones, para la primera entrada o input 0 tenemos la descripcion para el mapa del automata
+```
+q0,a->q0 q0,b->q1 q1,a->q1 q1,b->q2 q2,a->q1 q2,b->q1
+```
+y tenemos la construccion del mismo aqui
+![Imagen automata finito determinista ejemplo 0](/DiseñoAfd/img/Captura%20de%20pantalla%202024-09-21%20192729.png)

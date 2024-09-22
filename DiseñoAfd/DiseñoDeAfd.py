@@ -24,6 +24,9 @@ transiciones = input("Ingrese todas las transciones: ").split(" ")
 #numero cadenas que recibira el programa
 num_cadenas = int(input("Ingrese el numero total de cadenas a evaluar: "))
 cadenas_verificar = []
+for i in range(num_cadenas):
+    cadenas_verificar.append(input())
+print(cadenas_verificar)
 #pedir cadenas
 #comienzo del afd
 
