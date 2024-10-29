@@ -1,0 +1,3 @@
+S -> SBS | BC | Bb
+B -> aBCa | b
+C -> aC | ACC | abb
